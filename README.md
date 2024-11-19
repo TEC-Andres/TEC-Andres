@@ -2,7 +2,7 @@
 Data Mining, UI/UX, and Automation 
 
 # About me
-* Currently studying at **Instituto Tecnológico de Estudios Superiores de Monterrey**
+* Currently studying at **Tecnológico de Monterrey**
 * Generally, I focus on finding solutions regarding bussy work on applications.
 * My main focus is placed on Add-On development, specially in the creation of forms from scratch.
 * Usually I spend my time designing spreadsheet functionallity.
