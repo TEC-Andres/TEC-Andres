@@ -19,6 +19,9 @@ Data Mining, UI/UX, and Automation
 * C and C++
 * Go
 
+### Other interesting stuff I know
+* LaTeX
+
 # Contact Info
 * Institutional E-Mail: a01287002@tec.mx
 * LinkedIn: [Andrés Rodríguez Cantú](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-cant%C3%BA-6aa345273/)
