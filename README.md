@@ -4,7 +4,7 @@ Data Mining, UI/UX, and Automation
 # About me
 * Currently studying at **Tecnológico de Monterrey**
 * Generally, I focus on finding solutions regarding bussy work on applications.
-* My main focus is placed on Add-On development, specially in the creation of forms from scratch.
+* My main focus is placed on Add-On development, specially in the creation of client forms.
 * Usually I spend my time designing spreadsheet functionallity.
 * I'm proficient at **Python** and **Javascript**
 
