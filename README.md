@@ -15,9 +15,7 @@ Data Mining, UI/UX, and Automation
 * **Spoken Languages:** English (C2), Spanish (C2), and German (A1)
 
 ### Currently learning 
-* Rust
 * C and C++
-* Go
 
 ### Other interesting stuff I know
 * LaTeX
@@ -25,4 +23,4 @@ Data Mining, UI/UX, and Automation
 # Contact Info
 * Institutional E-Mail: a01287002@tec.mx
 * LinkedIn: [Andrés Rodríguez Cantú](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-cant%C3%BA-6aa345273/)
-* Discord Server: [Master & Think Composite](https://discord.gg/tSyXNT3MuU)
+<!-- * Discord Server: [Master & Think Composite](https://discord.gg/tSyXNT3MuU)-->
