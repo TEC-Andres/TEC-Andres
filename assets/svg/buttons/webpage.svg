@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="28" role="img" viewBox="0 0 126 28">
+  <title>My Webpage</title>
+  <rect width="126" height="28" rx="8" fill="#00897B"/>
+  
+  <!-- Code Icon </ > -->
+  <path d="M14.7526 19.7123 L13.3932 21.1608 L6.8308 15.0016 L12.9899 8.4392 L14.4483 9.8079 L9.6578 14.912 L14.7521 19.6932 Z" fill="#ffffff" opacity="0.3"/>
+  <path d="M18.8474 19.7123 L20.2068 21.1608 L26.7692 15.0016 L20.6101 8.4392 L19.1517 9.8079 L23.9422 14.912 L18.8479 19.6932 Z" fill="#ffffff" opacity="0.3"/>
+  <path d="M13.9526 18.9123 L12.5932 20.3608 L6.0308 14.2016 L12.1899 7.6392 L13.6483 9.0079 L8.8578 14.112 L13.9521 18.8932 Z" fill="#ffffff" opacity="0.9"/>
+  <path d="M18.0474 18.9123 L19.4068 20.3608 L25.9692 14.2016 L19.8101 7.6392 L18.3517 9.0079 L23.1422 14.112 L18.0479 18.8932 Z" fill="#ffffff" opacity="0.55"/>
+
+  <!--<text x="34" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">WEBPAGE</text> -->
+  <text x="45" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">SOON!</text>
+
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="28" role="img" viewBox="0 0 152 28">
+  <title>Recent Work</title>
+  <rect width="152" height="28" rx="8" fill="#3D70DD"/>
+  
+  <!-- Box / Package Icon -->
+  <path d="M7.25 10 L14.5 6 L21.75 10 L14.5 14 Z" fill="#ffffff" opacity="0.9"/>
+  <path d="M7.25 10 L14.5 14 L14.5 22 L7.25 18 Z" fill="#ffffff" opacity="0.55"/>
+  <path d="M14.5 14 L21.75 10 L21.75 18 L14.5 22 Z" fill="#ffffff" opacity="0.3"/>
+  
+  <text x="34" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">LATEST WORK</text>
+</svg>
