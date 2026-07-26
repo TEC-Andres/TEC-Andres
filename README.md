@@ -5,15 +5,9 @@
 </h1>
 
 <div align="center">
-    <a href="attachments/CV_Andres_ENG.pdf" target="_blank">
-        <img src="assets/svg/buttons/cv.svg" width="100" height="28" align="center">
-    </a>
-    <a href="https://github.com/TEC-Andres" target="_blank">
-        <img src="assets/svg/buttons/recentWork.svg" width="152" height="28" align="center">
-    </a>
-    <a>
-        <img src="assets/svg/buttons/webpage.svg" width="126" height="28" align="center">
-    </a>
+    <a href="attachments/CV_Andres_ENG.pdf" target="_blank"><img src="assets/svg/buttons/cv.svg" width="100" height="28"></a>
+    <a href="https://github.com/TEC-Andres" target="_blank"><img src="assets/svg/buttons/recentWork.svg" width="152" height="28"></a>
+    <img src="assets/svg/buttons/webpage.svg" width="126" height="28">
 </div>
 
 # About me
