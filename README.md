@@ -11,7 +11,7 @@
     <a href="https://github.com/TEC-Andres" target="_blank">
         <img src="assets/svg/buttons/recentWork.svg" width="152" height="28" align="center">
     </a>
-    <a href="" target="_blank">
+    <a>
         <img src="assets/svg/buttons/webpage.svg" width="126" height="28" align="center">
     </a>
 </div>
@@ -34,6 +34,6 @@ Hey! My name is **Andrés Rodríguez Cantú**, and I'm currently studying **Soft
 * Tools and Platforms: Git, Docker, AWS, Linux, Arduino, Raspberry Pi, LaTeX
 
 # Contact Info
-<a><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="16" height="16"/></a> Institutional E-Mail: [a01287002@tec.mx](mailto:a01287002@tec.mx)
-<a><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="16" height="16"/></a> LinkedIn: [Andrés Rodríguez Cantú](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-cant%C3%BA-6aa345273/)
-<a><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="16" height="16"/></a> Instagram: [@mrthinkalt](https://www.instagram.com/mrthinkalt/)
+<a><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="16" height="16"/></a> Institutional E-Mail: [a01287002@tec.mx](mailto:a01287002@tec.mx)  
+<a><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="16" height="16"/></a> LinkedIn: [Andrés Rodríguez Cantú](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-cant%C3%BA-6aa345273/)  
+<a><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="16" height="16"/></a> Instagram: [@mrthinkalt](https://www.instagram.com/mrthinkalt/)  
