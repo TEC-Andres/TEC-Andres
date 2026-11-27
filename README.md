@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="attachments/CV_Andres_ENG.pdf" target="_blank"><img src="assets/svg/buttons/cv.svg" width="100" height="28"></a>
-    <a href="https://github.com/TEC-Andres/HackMTY-2026" target="_blank"><img src="assets/svg/buttons/latestWork.svg" width="152" height="28"></a>
+    <a href="https://github.com/TEC-Andres/TC1004B.506-reto" target="_blank"><img src="assets/svg/buttons/latestWork.svg" width="152" height="28"></a>
     <img src="assets/svg/buttons/webpage.svg" width="126" height="28">
 </div>
 
@@ -19,7 +19,7 @@ Hey! My name is **Andrés Rodríguez Cantú**, and I'm currently studying **Soft
 * **Honors Student:** Recognized for academic excellence and outstanding performance in my studies in High School and University.
 
 # Currently working on
-* **[Industrial@Work](https://github.com/roborregos/industrial-work)** - Working with ROS2 implementation for Robocup's Industrial category, focusing on autonomous navigation and low level manipulation.  
+* **[RoboCup@Home](https://github.com/roborregos/home2)** - ROS 2 implementation for RoboCup@Home, focusing on Human Robotics Interaction (HRI) and manipulation.  
 * **[LaTeX cache compiler & updater](https://github.com/TEC-Andres/LaTeX-Compiler)** - Developing a tool to optimize $\LaTeX$ compilation by caching and updating only modified segments, improving efficiency for large documents.  
 
 # Technical Abilities
